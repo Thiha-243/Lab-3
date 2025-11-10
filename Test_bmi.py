@@ -1,4 +1,4 @@
-from Lab_2 import bmi
+import bmi
 
 def test_bmi_normal_weight():
     result1 = bmi.calculate_bmi(1.8,50)
